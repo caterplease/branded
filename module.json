@@ -1,0 +1,39 @@
+{
+    "id": "kor-lang",
+    "title": "Kor Languages",
+    "description": "Add Kor languages to D&D 5e.",
+    "version": "0.2.0",
+    "url": "",
+    "manifest": "",
+    "download": "",
+    "authors": [
+        {
+            "name": "Ciel",
+            "discord": "@caterplease"
+        }
+    ],
+    "compatibility": {
+        "minimum": "14",
+        "verified": "14"
+    },
+    "esmodules": ["module/kor-lang.mjs"],
+    "relationships": {
+        "systems": [
+            {
+                "id": "dnd5e",
+                "type": "system",
+                "manifest": "https://github.com/foundryvtt/dnd5e/releases/latest/download/system.json",
+                "compatibility": {
+                    "verified": "3.1.2"
+                }
+            }
+        ]
+    },
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json"
+        }
+    ]
+}
