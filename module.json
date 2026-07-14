@@ -3,9 +3,8 @@
     "title": "Kor Languages",
     "description": "Add Kor languages to D&D 5e.",
     "version": "0.2.0",
-    "url": "",
-    "manifest": "",
-    "download": "",
+      "manifest": "https://raw.githubusercontent.com/caterplease/indoril/languages/releases/download/0.3.0/module.json",
+  "download": "https://raw.githubusercontent.com/caterplease/indoril/languages/releases/download/0.3.0/kor-lang-0.3.0.zip",
     "authors": [
         {
             "name": "Ciel",
