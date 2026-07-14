@@ -1,7 +1,7 @@
 import { preLocalize } from "./utils.mjs";
 
 const LANG = {
-    royal: 'KOR-LANG.lang.fondris',
+    royal: 'KOR-LANG.lang.royal',
     vandalusian: 'KOR-LANG.lang.vandalusian',
     locksey: 'KOR-LANG.lang.locksey',
     cyrian: 'KOR-LANG.lang.cyrian',
@@ -12,7 +12,7 @@ const LANG = {
     hightongue: 'KOR-LANG.lang.high-tongue',
     lowtongue: 'KOR-LANG.lang.low-tongue',
     fondri: 'KOR-LANG.lang.fondri',
-    tovan: 'KOR.LANG.lang.tovan'
+    tovan: 'KOR-LANG.lang.tovan'
 };
 preLocalize("lang", LANG);
 
