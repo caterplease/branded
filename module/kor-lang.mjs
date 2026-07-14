@@ -47,7 +47,7 @@ Hooks.once("init", () => {
     }
 
     CONFIG.DND5E.languages.kor = {
-        label: "KOR-LANG.group.kor",
+        label: "Kor Languages",
         children: Lang,
     };
 
